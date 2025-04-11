@@ -1,12 +1,13 @@
 # AULA - 09/04 #
 
 # EXERCÍCIO 1#
-'''contagem_multiplos_3 = 0
-for i in range(10):
-    numero = int(input("Digite um número inteiro: "))
-    if numero % 3 == 0:
-        contagem_multiplos_3 += 1
-print(f"Quantidade de números múltiplos de 3: {contagem_multiplos_3}")'''
+'''numeros = 1
+contador = 0
+for numeros in range (1,11):
+    numero = int(input("Digite o número desejado: "))
+    if numero %3==0:
+        contador = contador + 1
+print(f"Quantidade de números múltiplos de 3: {contador}")'''
 
 # EXERCÍCIO 2 #
 '''senhacorreta = 'heloisalinda123'
