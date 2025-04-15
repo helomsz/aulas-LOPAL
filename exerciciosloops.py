@@ -37,6 +37,25 @@ while menu !=2:
     menu = int(input("[0]-Entrar\n"
                      "[1]-Sair\n"))'''
 
+#EXERCÍCIO 4 #
+'''valor_inicial = int(input("Digite o valor inicial, inteiro:"))
+valor_final = int(input("Digite o valor final, inteiro:"))
+
+if valor_inicial > valor_final:
+    print("Inválido! O valor inicial precisa ser menor!")
+num = int(input("Digite um número: "))
+
+if num >= 2:
+    for i in range(2, num):
+        if num % i == 0:
+            print(f"{num} não é primo")
+            break
+    else:
+        print(f"{num} é primo")
+else:
+    print(f"{num} não é primo")'''
+
+        
 # EXERCÍCIO 5#
 '''senhacorreta = 'heloisalinda123'
 contador = 3
