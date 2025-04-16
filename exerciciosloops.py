@@ -146,7 +146,7 @@ else:
 
 # DESAFIOS
 #coelhos
-populacao = float(input("Digite o número inicial de coelhos: "))
+'''populacao = float(input("Digite o número inicial de coelhos: "))
 taxa_reproducao = float(input("Digite a taxa de reprodução (ex: 0.3 para 30%): "))
 taxa_mortalidade = float(input("Digite a taxa de mortalidade (ex: 0.1 para 10%): "))
 geracoes = int(input("Digite o número de gerações: "))
@@ -158,10 +158,10 @@ for i in range(1, geracoes + 1):
 
     print(f"Geração {i}: {int(populacao)} coelhos")
 
-print(f"\nPopulação final após {geracoes} gerações: {int(populacao)} coelhos")
+print(f"\nPopulação final após {geracoes} gerações: {int(populacao)} coelhos")'''
 
 #forca
-import random
+'''import random
 
 palavras = ["Márcia", "computador", "python", "programa", "caligrafia", "desespero", "incerteza"]
 palavra_secreta = random.choice(palavras)
@@ -202,4 +202,4 @@ while True:
     else:
         letras_erradas.append(tentativa)
         tentativas -= 1
-        print("Essa letra não está na palavra fofo(a).")
+        print("Essa letra não está na palavra fofo(a).")'''
