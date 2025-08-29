@@ -2,9 +2,14 @@
 
 Este repositório contém minhas atividades, exercícios e anotações da disciplina **LOPAL – Lógica de Programação e Algoritmo**. O objetivo é praticar a resolução de problemas computacionais utilizando lógica estruturada e algoritmos bem definidos.
 
-## 📚 Sobre a Disciplina
+## 🏫 Informações da Disciplina
 
-A disciplina LOPAL tem como foco o desenvolvimento do raciocínio lógico para a criação de algoritmos e programas simples, utilizando estruturas de controle, variáveis, operadores e noções básicas de programação.
+- 📘 **Disciplina**: Lógica de Programação e Algoritmo (LOPAL)  
+- 👩‍🏫 **Professora**: Márcia  
+- 🏫 **Instituição**: SENAI Roberto Mange  
+- 📅 **Semestre**: 1º  
+- 🐍 **Linguagem Utilizada**: Python  
+
 
 ## 📌 Conteúdos Abordados
 
